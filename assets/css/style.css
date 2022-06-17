@@ -14,7 +14,7 @@ body {
   padding: 0;
   background: var(--primary-color);
   font-family: 'Open sans', sans-serif;
-  font-size: 1.8em;
+  font-size: 1.2em;
   line-height: 1.5em;
 }
 
@@ -67,7 +67,7 @@ form button:hover {
     text-align: center;
   }
   .cronometro {
-    font-size: 80px;
+    font-size: 120px;
     text-align: center;
   }
 }
